@@ -64,3 +64,4 @@ function startGame() {
             }
     } while (compPoints < 3 && playPoints < 3);
 }
+// End comment
